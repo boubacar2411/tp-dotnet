@@ -1,0 +1,17 @@
+commit 36f172c1bb9096ea19845d64676d390f7b104b5e
+Author: MacBookAir <macbookair@MacBook-Air-Aminata.local>
+Date:   Fri Dec 22 11:17:59 2023 +0000
+
+    Supprimer le fichier d'historique des actions
+
+commit b7f8bbb2fbacd165642f44a59f6e7cde531a8618
+Author: MacBookAir <macbookair@MacBook-Air-Aminata.local>
+Date:   Fri Dec 22 11:15:22 2023 +0000
+
+    Ajouter l'historique des actions
+
+commit a5f76dd7723b7b2e8da3e06668274cf9393d7ac4
+Author: MacBookAir <macbookair@MacBook-Air-Aminata.local>
+Date:   Fri Dec 22 10:04:08 2023 +0000
+
+    Premier commit
